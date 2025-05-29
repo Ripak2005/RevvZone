@@ -108,5 +108,6 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ---
 ## 👨‍💻 Developer
-**Ripak Kumar**
+**Ripak Raj**
+
 Built for the \[Spargen 2025 E-Commerce Challenge] 💥
